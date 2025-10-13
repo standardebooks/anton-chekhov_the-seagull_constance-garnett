@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-13T16:44:36Z</dc:date>
+		<meta property="dcterms:modified">2025-10-13T16:44:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,18 +42,17 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">A has-been actress, her ambitious playwright son, a male story writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</dc:description>
+		<dc:description id="description">A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A fading actress, Madame Irina Nikolayevna Arkadin, visits her brother’s country estate, where her son, Konstantin Gavrilovitch Treplev, stages an avant-garde play in an attempt to realize his artistic ambitions. The play stars the woman he is in love with, Nina Mihailovna Zaretchny, an aspiring actress with restrictive parents. Meanwhile, Masha, the daughter of the estate manager, pines for Treplev, while a local schoolteacher, Medvedenko, pines for Masha. Trigorin, a novelist, accompanies Madame Arkadin, but then attracts Nina’s attention.&lt;/p&gt;
-			&lt;p&gt;Some characters desire love, some desire artistic success, and some desire both. But over the course of the play, they’ll discover that happiness can be difficult to find.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Seagull&lt;/i&gt;, published in 1895, is considered to be the first of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Anton Chekhov’s&lt;/a&gt; four major plays. In contrast to most mainstream 19th-century plays, which were melodramatic, most of the characters speak in subtext. The opening night of the play in 1896 was famously a failure, which made Chekhov want to abandon writing plays. However, when it was produced in 1898 by Konstantin Stanislavski, the seminal Russian theater practitioner of the time, the play became a huge success, and as a result, Chekhov continued to write plays. While some productions have caused the play to be viewed as a tragedy, Chekhov always considered &lt;i&gt;The Seagull&lt;/i&gt; to be a comedy. &lt;i&gt;The Seagull&lt;/i&gt; is one of Chekhov’s most famous plays, and continues to be performed to the present day.&lt;/p&gt;
+			&lt;p&gt;A fading actress, Madame Irina Nikolayevna Arkadin, visits her brother’s country estate, where her son, Konstantin Gavrilovitch Treplev, stages an avant-garde play in an attempt to realize his artistic ambitions. The play stars the woman he’s in love with, Nina Mihailovna Zaretchny, an aspiring actress with restrictive parents. Meanwhile, Masha, the daughter of the estate manager, pines for Treplev, while a local schoolteacher, Medvedenko, pines for Masha. Trigorin, a novelist, accompanies Madame Arkadin, but then attracts Nina’s attention.&lt;/p&gt;
+			&lt;p&gt;Some characters desire love, some desire artistic success, and some desire both—but over the course of the play, they’ll discover that happiness can be difficult to find.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Seagull&lt;/i&gt;, published in 1895, is considered to be the first of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; four major plays. In contrast to most mainstream 19th-century plays, which were melodramatic, most of the characters speak in subtext. The play’s opening night in 1896 was famously a failure, and made Chekhov want to abandon writing plays. But when it was produced two years later by Konstantin Stanislavski, the seminal Russian theater practitioner, the play became a huge success. While some productions interpret the play as a tragedy, Chekhov always considered it to be a comedy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/102691823</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.11074/</dc:source>
-		<meta property="se:production-notes">The Internet Archive scans were used when the HathiTrust scans either were poorly scanned or had certain printer's typos.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">19054</meta>
+		<meta property="se:reading-ease.flesch">77.94</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Seagull</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-seagull_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
@@ -83,6 +82,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
