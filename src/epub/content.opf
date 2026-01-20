@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/102691823</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.11074/</dc:source>
-		<meta property="se:word-count">19054</meta>
+		<meta property="se:word-count">18695</meta>
 		<meta property="se:reading-ease.flesch">77.94</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Seagull</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_the-seagull_constance-garnett</meta>
