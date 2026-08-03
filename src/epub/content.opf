@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anton-chekhov/the-seagull/constance-garnett</dc:identifier>
 		<dc:date>2025-10-13T16:44:36Z</dc:date>
@@ -43,12 +43,12 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A fading actress, Madame Irina Nikolayevna Arkadin, visits her brother’s country estate, where her son, Konstantin Gavrilovitch Treplev, stages an avant-garde play in an attempt to realize his artistic ambitions. The play stars the woman he’s in love with, Nina Mihailovna Zaretchny, an aspiring actress with restrictive parents. Meanwhile, Masha, the daughter of the estate manager, pines for Treplev, while a local schoolteacher, Medvedenko, pines for Masha. Trigorin, a novelist, accompanies Madame Arkadin, but then attracts Nina’s attention.&lt;/p&gt;
 			&lt;p&gt;Some characters desire love, some desire artistic success, and some desire both—but over the course of the play, they’ll discover that happiness can be difficult to find.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Seagull&lt;/i&gt;, published in 1895, is considered to be the first of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; four major plays. In contrast to most mainstream 19th-century plays, which were melodramatic, most of the characters speak in subtext. The play’s opening night in 1896 was famously a failure, and made Chekhov want to abandon writing plays. But when it was produced two years later by Konstantin Stanislavski, the seminal Russian theater practitioner, the play became a huge success. While some productions interpret the play as a tragedy, Chekhov always considered it to be a comedy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/102691823</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.11074</dc:source>
