@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</dc:abstract>
+		<meta property="schema:abstract">A has-been actress, her ambitious playwright son, a male writer, and an aspiring young actress struggle to realize their romantic and artistic aims.</meta>
 		<dc:description>
 			&lt;p&gt;A fading actress, Madame Irina Nikolayevna Arkadin, visits her brother’s country estate, where her son, Konstantin Gavrilovitch Treplev, stages an avant-garde play in an attempt to realize his artistic ambitions. The play stars the woman he’s in love with, Nina Mihailovna Zaretchny, an aspiring actress with restrictive parents. Meanwhile, Masha, the daughter of the estate manager, pines for Treplev, while a local schoolteacher, Medvedenko, pines for Masha. Trigorin, a novelist, accompanies Madame Arkadin, but then attracts Nina’s attention.&lt;/p&gt;
 			&lt;p&gt;Some characters desire love, some desire artistic success, and some desire both—but over the course of the play, they’ll discover that happiness can be difficult to find.&lt;/p&gt;
