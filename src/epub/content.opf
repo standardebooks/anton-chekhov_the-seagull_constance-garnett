@@ -73,6 +73,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jules Breton</dc:contributor>
 		<meta property="file-as" refines="#artist">Breton, Jules</meta>
+		<meta property="schema:alternateName" refines="#artist">Jules Adolphe Aimé Louis Breton</meta>
 		<link href="https://en.wikipedia.org/wiki/Jules_Breton" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82118660.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
